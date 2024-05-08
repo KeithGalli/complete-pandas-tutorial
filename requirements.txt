@@ -1,0 +1,5 @@
+numpy
+openpyxl
+pandas
+pyarrow
+pyjanitor
