@@ -3,6 +3,6 @@ A comprehensive tutorial on the Python Pandas library, updated to be consistent 
 
 <img src='./images/thumbnail.jpg' width=50%>
 
-The tutorial can be watched [here](https://youtu.be/dQw4w9WgXcQ?si=7KgnCXhy9cpYWyrk)
+The tutorial can be watched [here](https://youtu.be/2uvysYbKdjM?si=8UnGt0bwLwo-eEQL)
 
 The code that is walked through in the tutorial is in [tutorial.ipynb](./tutorial.ipynb)
