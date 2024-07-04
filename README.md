@@ -32,7 +32,7 @@ cd complete-pandas-tutorial
 
 Replace `yourusername` with your actual GitHub username.
 
-### Step 4: Create a Virtual Environment
+### Step 4: Create a Virtual Environment (optional)
 
 Creating a virtual environment is a good practice to manage dependencies for your projects. Run the following command:
 
